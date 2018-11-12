@@ -6,6 +6,7 @@ public class Calculator {
         int firstNumber, secondNumber;
         //TO JEST DOBRA ZMIANA
 
+        //iuuhuihuihihiuhu9ihiuhiuhihihihiuhihhihi9hiuhihihihihiuiih
         System.out.println("Witaj w super kalkulatorze! ");
 
         int userType;
