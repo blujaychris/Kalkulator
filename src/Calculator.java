@@ -4,6 +4,7 @@ public class Calculator {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int firstNumber, secondNumber;
+        //TO JEST DOBRA ZMIANA
 
         System.out.println("Witaj w super kalkulatorze! ");
 
